@@ -56,7 +56,7 @@ class Conexion:                                                             #cla
 
 if __name__ == '__main__':
 
-        print('archivo soporte de conexión a la base de datos')
+        print('archivo soporte de conexión a la base de datos, ejecutar main.py')
 
 
 
