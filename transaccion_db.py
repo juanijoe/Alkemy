@@ -131,7 +131,7 @@ class mostrar_datos:                #clase que muestra en salida de pantalla la 
 
 if __name__ == '__main__':
 
-    print('archivo de soporte para la tablas de información requeridas')
+    print('archivo de soporte para la tablas de información requeridas, ejecutar main.py')
 
 
 
