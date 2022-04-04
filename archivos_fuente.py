@@ -76,5 +76,5 @@ class Obtener:
 
 if __name__ == '__main__':
 
-    print(f'archivo de soporte')
+    print(f'archivo de soporte, ejecutar main.py')
 
