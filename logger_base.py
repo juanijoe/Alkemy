@@ -15,4 +15,4 @@ if __name__ == '__main__':
     #log.error('mensaje a nivel error')
     #log.critical('mensaje a nivel critical')
 
-    print('archivo log para manejo de errores')
+    print('archivo log para manejo de errores, ejecutar main.py')
