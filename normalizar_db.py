@@ -230,7 +230,7 @@ def crear_tablas():                                     #método de clase que ll
 
 if __name__ == '__main__':
 
-    print('archivo de soporte para la carga de registros en la base de datos')
+    print('archivo de soporte para la carga de registros en la base de datos, ejecutar main.py')
 
     #Nota: se elige como método cargar la información contenido en los archivos fuente en sus respectivas tablas equivalentes en la base de datos, a fin
     #de poder trabajar con la información desde la base de datos, para evitar la apertura y cierre de archivos cada vez que se quiere acceder a los datos
